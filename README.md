@@ -14,3 +14,4 @@ Coded by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)__
 * __HTML 4.01__
 * __CSS inline__
 * __HTML tables__
+* _smart idea ;-)_
